@@ -14,5 +14,8 @@ import java.util.List;
  */
 public class BaseDeConocimiento {
     
+    String nombre, genero,gusto;
+   
+           
              
 }
