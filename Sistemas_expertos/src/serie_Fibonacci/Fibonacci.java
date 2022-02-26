@@ -16,8 +16,7 @@ public class Fibonacci {
     
     
     //Aplicando recursividad  
-    //esto es un sutituto para la iteracion
-    //regla  Fibonacci = n-1 + n-2 
+    //esto es un sutituto para la iteracion 
     int fibonacci(int n)
 {    //regla  Fibonacci = n-1 + n-2 
     if (n>1){
